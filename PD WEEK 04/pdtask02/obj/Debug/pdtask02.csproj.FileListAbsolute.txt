@@ -1,0 +1,7 @@
+F:\STUDY\2nd Semester\Lab Manual 04\pdtask02\bin\Debug\pdtask02.exe.config
+F:\STUDY\2nd Semester\Lab Manual 04\pdtask02\bin\Debug\pdtask02.exe
+F:\STUDY\2nd Semester\Lab Manual 04\pdtask02\bin\Debug\pdtask02.pdb
+F:\STUDY\2nd Semester\Lab Manual 04\pdtask02\obj\Debug\pdtask02.csproj.AssemblyReference.cache
+F:\STUDY\2nd Semester\Lab Manual 04\pdtask02\obj\Debug\pdtask02.csproj.CoreCompileInputs.cache
+F:\STUDY\2nd Semester\Lab Manual 04\pdtask02\obj\Debug\pdtask02.exe
+F:\STUDY\2nd Semester\Lab Manual 04\pdtask02\obj\Debug\pdtask02.pdb
