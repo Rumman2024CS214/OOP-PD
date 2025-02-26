@@ -1,0 +1,7 @@
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 01\bin\Debug\Problem 01.exe.config
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 01\bin\Debug\Problem 01.exe
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 01\bin\Debug\Problem 01.pdb
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 01\obj\Debug\Problem 01.csproj.AssemblyReference.cache
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 01\obj\Debug\Problem 01.csproj.CoreCompileInputs.cache
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 01\obj\Debug\Problem 01.exe
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 01\obj\Debug\Problem 01.pdb

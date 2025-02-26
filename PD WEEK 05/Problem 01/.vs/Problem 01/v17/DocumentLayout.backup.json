@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\dl\\subjectcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:dl\\subjectcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|f:\\study\\2nd semester\\programming days\\pd week 05\\problem 01\\dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\dl\\degreeprogramcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:dl\\degreeprogramcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6128CB-2774-4A30-9D00-53760E4066FE}|Problem 01.csproj|solutionrelative:bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentCRUD.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\DL\\StudentCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\StudentCRUD.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\DL\\StudentCRUD.cs",
+              "RelativeToolTip": "DL\\StudentCRUD.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:54:25.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectCRUD.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\DL\\SubjectCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\SubjectCRUD.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\DL\\SubjectCRUD.cs*",
+              "RelativeToolTip": "DL\\SubjectCRUD.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:46:18.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleUtility.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\UI\\ConsoleUtility.cs",
+              "RelativeDocumentMoniker": "UI\\ConsoleUtility.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\UI\\ConsoleUtility.cs",
+              "RelativeToolTip": "UI\\ConsoleUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:15:57.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DegreeProgramUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\UI\\DegreeProgramUI.cs",
+              "RelativeDocumentMoniker": "UI\\DegreeProgramUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\UI\\DegreeProgramUI.cs",
+              "RelativeToolTip": "UI\\DegreeProgramUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:55:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "UI\\StudentUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\UI\\StudentUI.cs",
+              "RelativeToolTip": "UI\\StudentUI.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAADwv2MAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:54:55.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubjectUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\UI\\SubjectUI.cs",
+              "RelativeDocumentMoniker": "UI\\SubjectUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\UI\\SubjectUI.cs*",
+              "RelativeToolTip": "UI\\SubjectUI.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:46:46.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwFMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:41:24.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DegreeProgramCRUD.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\DL\\DegreeProgramCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\DegreeProgramCRUD.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\DL\\DegreeProgramCRUD.cs",
+              "RelativeToolTip": "DL\\DegreeProgramCRUD.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:54:41.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "BL\\Student.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\BL\\Student.cs*",
+              "RelativeToolTip": "BL\\Student.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv10AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:42:14.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\BL\\Subject.cs",
+              "RelativeDocumentMoniker": "BL\\Subject.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\BL\\Subject.cs",
+              "RelativeToolTip": "BL\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:42:38.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DegreeProgram.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\BL\\DegreeProgram.cs",
+              "RelativeDocumentMoniker": "BL\\DegreeProgram.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 01\\BL\\DegreeProgram.cs",
+              "RelativeToolTip": "BL\\DegreeProgram.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:47:18.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

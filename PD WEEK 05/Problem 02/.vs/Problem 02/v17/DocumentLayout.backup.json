@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|f:\\study\\2nd semester\\programming days\\pd week 05\\problem 02\\ui\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:ui\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\dl\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:dl\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\dl\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:dl\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:ui\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\bl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:bl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\dl\\admincrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:dl\\admincrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F545083-06F0-48F8-82CE-8C843C1C57BD}|Problem 02.csproj|solutionrelative:bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCRUD.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\DL\\ProductCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\ProductCRUD.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\DL\\ProductCRUD.cs",
+              "RelativeToolTip": "DL\\ProductCRUD.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAtwD4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:19:22.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\BL\\Customer.cs",
+              "RelativeDocumentMoniker": "BL\\Customer.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\BL\\Customer.cs",
+              "RelativeToolTip": "BL\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:00:27.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\UI\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "UI\\CustomerUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\UI\\CustomerUI.cs",
+              "RelativeToolTip": "UI\\CustomerUI.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:04:46.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\UI\\ProductUI.cs",
+              "RelativeDocumentMoniker": "UI\\ProductUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\UI\\ProductUI.cs",
+              "RelativeToolTip": "UI\\ProductUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:37:10.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleUtility.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\UI\\ConsoleUtility.cs",
+              "RelativeDocumentMoniker": "UI\\ConsoleUtility.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\UI\\ConsoleUtility.cs",
+              "RelativeToolTip": "UI\\ConsoleUtility.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:02:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAD4v7AAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:58:47.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerCRUD.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\DL\\CustomerCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\CustomerCRUD.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\DL\\CustomerCRUD.cs",
+              "RelativeToolTip": "DL\\CustomerCRUD.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAtwF8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:08:40.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminCRUD.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\DL\\AdminCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\AdminCRUD.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\DL\\AdminCRUD.cs",
+              "RelativeToolTip": "DL\\AdminCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:08:29.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\BL\\Product.cs",
+              "RelativeDocumentMoniker": "BL\\Product.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\BL\\Product.cs",
+              "RelativeToolTip": "BL\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:59:59.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\UI\\AdminUI.cs",
+              "RelativeDocumentMoniker": "UI\\AdminUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\UI\\AdminUI.cs",
+              "RelativeToolTip": "UI\\AdminUI.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAtwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:04:33.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\BL\\Admin.cs",
+              "RelativeDocumentMoniker": "BL\\Admin.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\Programming Days\\PD WEEK 05\\Problem 02\\BL\\Admin.cs",
+              "RelativeToolTip": "BL\\Admin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:00:46.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

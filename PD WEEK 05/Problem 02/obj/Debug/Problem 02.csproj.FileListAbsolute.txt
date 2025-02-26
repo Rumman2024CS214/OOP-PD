@@ -1,0 +1,10 @@
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\obj\Debug\Problem 02.csproj.AssemblyReference.cache
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\obj\Debug\Problem 02.csproj.CoreCompileInputs.cache
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\bin\Debug\Problem 02.exe.config
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\bin\Debug\Problem 02.exe
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\bin\Debug\Problem 02.pdb
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\obj\Debug\Problem 02.exe
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\obj\Debug\Problem 02.pdb
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\bin\Debug\EZInput.dll
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\bin\Debug\EZInput.xml
+F:\STUDY\2nd Semester\Programming Days\PD WEEK 05\Problem 02\obj\Debug\Problem 02.csproj.Up2Date

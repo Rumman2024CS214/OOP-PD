@@ -1,0 +1,3 @@
+Bread,grocery,120,200,50
+Apples,fruit,25,450,50
+Banana,fruit,20,200,12
