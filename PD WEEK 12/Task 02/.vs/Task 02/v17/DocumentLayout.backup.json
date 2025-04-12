@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 02.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\ui\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 02.csproj|solutionrelative:ui\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 02.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 02.csproj|solutionrelative:bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 02.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 02.csproj|solutionrelative:bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 02.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 03.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\ui\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 03.csproj|solutionrelative:ui\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 03.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 03.csproj|solutionrelative:bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 03.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99BBC57-0F20-4073-AAA6-011F334150D7}|Task 03.csproj|solutionrelative:bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\UI\\Interface.cs",
+              "RelativeDocumentMoniker": "UI\\Interface.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\UI\\Interface.cs",
+              "RelativeToolTip": "UI\\Interface.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:30:17.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\BL\\Deck.cs",
+              "RelativeDocumentMoniker": "BL\\Deck.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\BL\\Deck.cs",
+              "RelativeToolTip": "BL\\Deck.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:30:17.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\BL\\Card.cs",
+              "RelativeDocumentMoniker": "BL\\Card.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\BL\\Card.cs",
+              "RelativeToolTip": "BL\\Card.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:30:17.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\BL\\Deck.cs",
+              "RelativeDocumentMoniker": "BL\\Deck.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\BL\\Deck.cs",
+              "RelativeToolTip": "BL\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:08:45.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4v0kAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:02:15.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\UI\\Interface.cs",
+              "RelativeDocumentMoniker": "UI\\Interface.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\UI\\Interface.cs",
+              "RelativeToolTip": "UI\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:18:22.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\BL\\Card.cs",
+              "RelativeDocumentMoniker": "BL\\Card.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 02\\BL\\Card.cs",
+              "RelativeToolTip": "BL\\Card.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowE0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:03:12.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

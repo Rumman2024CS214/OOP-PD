@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|f:\\study\\2nd semester\\oop lab  manual 12\\pd 12\\task 01\\ui\\interfaceui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|solutionrelative:ui\\interfaceui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|f:\\study\\2nd semester\\oop lab  manual 12\\pd 12\\task 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|solutionrelative:bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\dl\\staffcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|solutionrelative:dl\\staffcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|solutionrelative:bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|f:\\study\\2nd semester\\oop lab  manual 12\\pd 12\\task 01\\dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|solutionrelative:dl\\studentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\ui\\staffui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|solutionrelative:ui\\staffui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B06A3F-22FB-4950-A3A2-D7DAA65C2B02}|Task 01.csproj|solutionrelative:ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfaceUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\UI\\InterfaceUI.cs",
+              "RelativeDocumentMoniker": "UI\\InterfaceUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\UI\\InterfaceUI.cs",
+              "RelativeToolTip": "UI\\InterfaceUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:17:34.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffCRUD.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\DL\\StaffCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\StaffCRUD.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\DL\\StaffCRUD.cs",
+              "RelativeToolTip": "DL\\StaffCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:03:00.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\UI\\StaffUI.cs",
+              "RelativeDocumentMoniker": "UI\\StaffUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\UI\\StaffUI.cs",
+              "RelativeToolTip": "UI\\StaffUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:59:37.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "UI\\StudentUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\UI\\StudentUI.cs",
+              "RelativeToolTip": "UI\\StudentUI.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA7wCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:51:01.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\BL\\Staff.cs",
+              "RelativeDocumentMoniker": "BL\\Staff.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\BL\\Staff.cs",
+              "RelativeToolTip": "BL\\Staff.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:36:09.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "BL\\Student.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\BL\\Student.cs",
+              "RelativeToolTip": "BL\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA3wDgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:30:32.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAD4vz8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:15:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentCRUD.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\DL\\StudentCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\StudentCRUD.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 01\\DL\\StudentCRUD.cs",
+              "RelativeToolTip": "DL\\StudentCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:06:09.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|f:\\study\\2nd semester\\oop lab  manual 12\\pd 12\\task 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\ui\\dealerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|solutionrelative:ui\\dealerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\ui\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|solutionrelative:ui\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\ui\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|solutionrelative:ui\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|solutionrelative:bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\bl\\blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D48A595-10AF-468C-9AF1-7F57853D2B0C}|Task 03.csproj|solutionrelative:bl\\blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DealerUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\UI\\DealerUI.cs",
+              "RelativeDocumentMoniker": "UI\\DealerUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\UI\\DealerUI.cs",
+              "RelativeToolTip": "UI\\DealerUI.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:41:18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlackjackHand.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\BL\\BlackjackHand.cs",
+              "RelativeDocumentMoniker": "BL\\BlackjackHand.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\BL\\BlackjackHand.cs",
+              "RelativeToolTip": "BL\\BlackjackHand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:30:24.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\UI\\Interface.cs",
+              "RelativeDocumentMoniker": "UI\\Interface.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\UI\\Interface.cs",
+              "RelativeToolTip": "UI\\Interface.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:14:24.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\BL\\Card.cs",
+              "RelativeDocumentMoniker": "BL\\Card.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\BL\\Card.cs",
+              "RelativeToolTip": "BL\\Card.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:04:54.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerUI.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\UI\\PlayerUI.cs",
+              "RelativeDocumentMoniker": "UI\\PlayerUI.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\UI\\PlayerUI.cs",
+              "RelativeToolTip": "UI\\PlayerUI.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:39:21.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\STUDY\\2nd Semester\\OOP lab  manual 12\\PD 12\\Task 03\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAGoAAAAAAAAAAAD4v4AAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:03:38.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

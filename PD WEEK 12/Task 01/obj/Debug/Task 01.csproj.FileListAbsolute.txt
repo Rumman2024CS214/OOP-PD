@@ -1,0 +1,7 @@
+F:\STUDY\2nd Semester\OOP lab  manual 12\PD 12\Task 01\bin\Debug\Task 01.exe.config
+F:\STUDY\2nd Semester\OOP lab  manual 12\PD 12\Task 01\bin\Debug\Task 01.exe
+F:\STUDY\2nd Semester\OOP lab  manual 12\PD 12\Task 01\bin\Debug\Task 01.pdb
+F:\STUDY\2nd Semester\OOP lab  manual 12\PD 12\Task 01\obj\Debug\Task 01.csproj.AssemblyReference.cache
+F:\STUDY\2nd Semester\OOP lab  manual 12\PD 12\Task 01\obj\Debug\Task 01.csproj.CoreCompileInputs.cache
+F:\STUDY\2nd Semester\OOP lab  manual 12\PD 12\Task 01\obj\Debug\Task 01.exe
+F:\STUDY\2nd Semester\OOP lab  manual 12\PD 12\Task 01\obj\Debug\Task 01.pdb
